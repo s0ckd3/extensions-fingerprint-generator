@@ -1,0 +1,21 @@
+{
+    "version": "20.21",
+    "manifest_version": 2,
+    "short_name": "defender",
+    "name": "Fingerprint Bypass",
+    "permissions": [
+        "storage"
+    ],
+    "description": "Fingerprint Bypass",
+    "content_scripts": [{
+        "all_frames": true,
+        "matches": [
+            "*://*/*"
+        ],
+        "match_about_blank": true,
+        "run_at": "document_start",
+        "js": [
+            "index.js"
+        ]
+    }]
+}
