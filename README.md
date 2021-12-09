@@ -56,5 +56,6 @@ Fingerprint Fully generated
 
 ### Video demo: https://www.youtube.com/watch?v=cF_2GC__1as
 
-##We created it for everyone's reference. If you want to buy the source code, you can contact 
-Email: Esale.safe@gmail.com
+## We created it for everyone's reference.
+*If you want to buy the source code, you can contact*
+**Email: Esale.safe@gmail.com**
