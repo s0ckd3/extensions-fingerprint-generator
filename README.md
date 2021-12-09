@@ -2,8 +2,9 @@
 The Extensions Chrome, Addon Firefox utility generates Fingerprints for the browser.
 The Extensions is created to generate fingerprints for Fonts, WebGL, UA, Canvas...Including screen size, Ram, CPU and more. All parameters are random to generate browser fingerprints. 
 ## The best support utility for Chrome Browser and Firefox computer.
+Fingerprint Fully generated
 
-** "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:90.0) Gecko/20100101 Firefox/90.0",
+``` "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:90.0) Gecko/20100101 Firefox/90.0",
   "cookiesEnabled": true,
   "timezone": "Europe/Prague",
   "timezoneOffset": -60,
@@ -41,7 +42,7 @@ The Extensions is created to generate fingerprints for Fonts, WebGL, UA, Canvas.
     "touchStart": false
   },
   "languages": [ "en-US", "en" ]
-**
+```
 
 ## Video demo: https://www.youtube.com/watch?v=cF_2GC__1as
 
